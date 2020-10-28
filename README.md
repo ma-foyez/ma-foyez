@@ -25,7 +25,7 @@
   </a>
 </p>
                                                                                           
-  <h1> Skill </h1>      
+  <h1 align="left"> Skill </h1>      
   
  <div align="left">
   <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <br>
