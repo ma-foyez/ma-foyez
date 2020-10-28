@@ -10,13 +10,13 @@
 <h2 align="center" border-labelColor=gray"> FIND ME ONLINE </h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ma-foyez">
+  <a target="_blank" href="https://www.linkedin.com/in/ma-foyez">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=gray">
  </a>
-  <a href="https://github.com/ma-foyez">
+  <a target="_blank" href="https://github.com/ma-foyez">
     <img src="https://img.shields.io/badge/Github-red?style=flat&logo=github&labelColor=gray">
   </a>
-  <a href="https://twitter.com/MAFayez3">
+  <a target="_blank" href="https://twitter.com/MAFayez3">
     <img src="https://img.shields.io/badge/Twitter-danger?style=flat&logo=twitter&labelColor=gray">
   </a>
  
