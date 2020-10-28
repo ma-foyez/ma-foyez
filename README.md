@@ -5,8 +5,8 @@
 
 <h1 color="red"> Front End Developer </h1>
 
-> I loveprogramming.Iliketodoprogrammingandalsowriteprogrammingrelatedblogsand try to teach
-> people.I have beenworking onwebdevelopmentsince 2019 and trying to learn new technologies every
+> I love programming.I like to do programming and also write programming related blogs and try to teach
+> people.I have been working on web development since 2019 and trying to learn new technologies every
 > day. I do not lack my hard work in any work from my side. I always try my best.
 
 <h2 align="center" border-labelColor=gray"> FIND ME ONLINE </h2>
