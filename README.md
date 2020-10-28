@@ -1,6 +1,5 @@
 ### Hi there 👋
-![6abfcce1fa6d8ef54f0b24ad08ae4c93](https://user-images.githubusercontent.com/67279274/97460648-264f7700-1967-11eb-8c07-4bc65ee541e9.jpg)
-
+![6abfcce1fa6d8ef54f0b24ad08ae4c93](https://user-images.githubusercontent.com/67279274/97464270-e4283480-196a-11eb-958e-c56fe792d9cc.jpg)
 **ma-foyez/ma-foyez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 dfdf
