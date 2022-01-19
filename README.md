@@ -1,41 +1,33 @@
-<div align="center">
- <h2> Hi, Welcome To My Github Profile 😊😊</h2>
- 
-![6abfcce1fa6d8ef54f0b24ad08ae4c93](https://user-images.githubusercontent.com/67279274/97464270-e4283480-196a-11eb-958e-c56fe792d9cc.jpg)
+## Hi there, I'm Muhammad Abul Foyez <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-<h1> Front End Developer </h1>
-<h3 align="left"><strong>Career Objective : </strong></h3>
 
-> I love programming.I like to do programming and also write programming related blogs and try to teach people.I have been working on web development since 2019 and trying to learn new technologies every day. I do not lack my hard work in any work from my side. I always try my best.
+𝘐 𝘭𝘰𝘷𝘦 𝘱𝘳𝘰𝘨𝘳𝘢𝘮𝘮𝘪𝘯𝘨 & 𝘦𝘯𝘫𝘰𝘺 𝘵𝘩𝘪𝘴 𝘸𝘰𝘳𝘬 𝘤𝘩𝘢𝘭𝘭𝘦𝘯𝘨𝘪𝘯𝘨 𝘐 𝘢𝘭𝘴𝘰 𝘸𝘳𝘪𝘵𝘦 𝘱𝘳𝘰𝘨𝘳𝘢𝘮𝘮𝘪𝘯𝘨-𝘳𝘦𝘭𝘢𝘵𝘦𝘥 𝘣𝘭𝘰𝘨𝘴 𝘢𝘯𝘥 𝘵𝘳𝘺 𝘵𝘰 𝘵𝘦𝘢𝘤𝘩 𝘰𝘵𝘩𝘦𝘳𝘴. 𝘐 𝘩𝘢𝘷𝘦 𝘣𝘦𝘦𝘯 𝘸𝘰𝘳𝘬𝘪𝘯𝘨 𝘰𝘯 𝘸𝘦𝘣 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵 𝘴𝘪𝘯𝘤𝘦 2019 𝘢𝘯𝘥 𝘵𝘳𝘺𝘪𝘯𝘨 𝘵𝘰 𝘭𝘦𝘢𝘳𝘯 𝘯𝘦𝘸 𝘵𝘦𝘤𝘩𝘯𝘰𝘭𝘰𝘨𝘪𝘦𝘴 𝘦𝘷𝘦𝘳𝘺 𝘥𝘢𝘺. 𝘐 𝘥𝘰 𝘯𝘰𝘵 𝘭𝘢𝘤𝘬 𝘮𝘺 𝘩𝘢𝘳𝘥 𝘸𝘰𝘳𝘬 𝘪𝘯 𝘢𝘯𝘺 𝘸𝘰𝘳𝘬 𝘧𝘳𝘰𝘮 𝘮𝘺 𝘴𝘪𝘥𝘦. 𝘐 𝘢𝘭𝘸𝘢𝘺𝘴 𝘵𝘳𝘺 𝘮𝘺 𝘣𝘦𝘴𝘵.
 
-<h2 align="center" border-labelColor=gray"> FIND ME ONLINE </h2>
+### 𝐈'𝐦 𝐚 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫!!
 
-<p align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/ma-foyez">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=gray">
- </a>
-  <a target="_blank" href="https://github.com/ma-foyez">
-    <img src="https://img.shields.io/badge/Github-red?style=flat&logo=github&labelColor=gray">
-  </a>
-  <a target="_blank" href="https://twitter.com/MAFayez3">
-    <img src="https://img.shields.io/badge/Twitter-danger?style=flat&logo=twitter&labelColor=gray">
-  </a>
- 
- <a href="https://github.com/ma-foyez/ma-foyez/files/5453731/Resume_of_Muhammad_Abul_Foyez.pdf">
-    <img src="https://img.shields.io/badge/Resume-blue?style=flat&logo=R&labelColor=gray"">
-  </a>
-</p>
-                                                                                          
-  <h1 align="left"> Skill </h1>      
-  
- <div align="left">
-  <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <br>
-  <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/><br>
-  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/><br>
-  <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/><br>
-  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><br>
-  <img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/><br>
-  <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/><br>
-   <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/><br>
-</div>
-</div>
+
+- :fire: &nbsp;I enjoy programming and think in a different way 
+- :computer: &nbsp; I enjoy too much learning new tech up to day. 
+- 👨‍💻  &nbsp; Some of my projects are available at [https://github.com/ma-foyez?tab=repositories](https://github.com/ma-foyez?tab=repositories)
+
+- 🌐 &nbsp;Visit my portfolio [Fayez](https://mafoyez.netlify.app/)
+- :e-mail: &nbsp;How to reach me: mafoyez.bd@gmail.com [Preferrable]
+
+<br />
+
+#### :earth_americas:&nbsp; 𝐅𝐢𝐧𝐝 𝐌𝐞 𝐎𝐧𝐥𝐢𝐧𝐞!
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://mafoyez.netlify.app/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ma-foyez/)
+[![Medium Badge](https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mafayez)  
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ma.fayez132/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MAFayez_bd) 
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mafoyez.bd@gmail.com)
+
+<br />
+
+#### :bookmark: 𝐆𝐢𝐭𝐡𝐮𝐛 𝐒𝐭𝐚𝐭u𝐬!
+
+![learnwithsumit's github stats](https://github-readme-stats.vercel.app/api?username=ma-foyez&count_private=true&theme=algolia&show_icons=true)
+
+![Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ma-foyez&theme=algolia)
