@@ -26,7 +26,7 @@
 
 <br />
 
-#### :bookmark: 𝐆𝐢𝐭𝐡𝐮𝐛 𝐒𝐭𝐚𝐭u𝐬!
+#### :bookmark: 𝐆𝐢𝐭𝐡𝐮𝐛 𝐒𝐭𝐚𝐭𝐮𝐬!
 
 ![learnwithsumit's github stats](https://github-readme-stats.vercel.app/api?username=ma-foyez&count_private=true&theme=algolia&show_icons=true)
 
