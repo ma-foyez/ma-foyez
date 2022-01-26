@@ -25,6 +25,7 @@
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mafoyez.bd@gmail.com)
 
 <br />
+<br />
 
 #### :bookmark: 𝐆𝐢𝐭𝐡𝐮𝐛 𝐒𝐭𝐚𝐭𝐮𝐬!
 
