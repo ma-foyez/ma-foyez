@@ -19,7 +19,7 @@
 
 <br />
 
-## 🛠  Technologies and tools
+#### 🛠  Technologies and tools
 
 ---
 
@@ -55,6 +55,7 @@
 
 
 #### :earth_americas:&nbsp; 𝐅𝐢𝐧𝐝 𝐌𝐞 𝐎𝐧𝐥𝐢𝐧𝐞!
+---
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://mafoyez.netlify.app/)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ma-foyez/)
